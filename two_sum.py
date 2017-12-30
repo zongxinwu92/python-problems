@@ -1,4 +1,4 @@
-'leetcode first 50 questions and their extensions'
+'two sum and related problems'
 _author_ = "Jessie Wu"
 
 # number sum
